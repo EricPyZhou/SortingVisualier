@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SortingVisualier/static/css/main.b100e6da.chunk.css",
+    "main.js": "/SortingVisualier/static/js/main.d4441e71.chunk.js",
+    "main.js.map": "/SortingVisualier/static/js/main.d4441e71.chunk.js.map",
+    "runtime-main.js": "/SortingVisualier/static/js/runtime-main.d256c190.js",
+    "runtime-main.js.map": "/SortingVisualier/static/js/runtime-main.d256c190.js.map",
+    "static/js/2.028b3825.chunk.js": "/SortingVisualier/static/js/2.028b3825.chunk.js",
+    "static/js/2.028b3825.chunk.js.map": "/SortingVisualier/static/js/2.028b3825.chunk.js.map",
+    "index.html": "/SortingVisualier/index.html",
+    "precache-manifest.2ae9ea0c8a81521b1eadbc7459155e50.js": "/SortingVisualier/precache-manifest.2ae9ea0c8a81521b1eadbc7459155e50.js",
+    "service-worker.js": "/SortingVisualier/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/SortingVisualier/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/SortingVisualier/static/media/logo.25bf045c.svg"
+  }
+}
